@@ -6,7 +6,7 @@ def hello
 end  
 
 def ChattyStudent
-  puts
+  puts "Pick me!"
 end  
 
 end
