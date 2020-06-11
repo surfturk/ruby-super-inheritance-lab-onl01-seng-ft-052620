@@ -1,4 +1,4 @@
-Class Student
+class Student
 
 
 
